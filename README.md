@@ -5,7 +5,7 @@
 Experienced Flutter and Dart developer with a proven track record of creating dynamic, high-performance mobile applications. Skilled in leveraging the power of flutter to deliver cross-platform solutions with seamless user experiences and rich interfaces. Adept at working in agile environments, collaborating with diverse teams, and driving projects from concept to development. Passionate about staying updated with the latest industry trends.
 
 # WORK EXPERIENCE
-<strong>Application Developer</strong> <br>
+<strong>Application Developer (4 years)</strong> <br>
 Mindsmiratus Technology Pvt.Ltd. I do mobile app development. Who has role in complete us design and UI both
 
 # Project
